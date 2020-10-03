@@ -5,7 +5,7 @@ All required packages that need to be installed can be found in global.R
 
 The project folder should look like this:
 
-![Directory Structure](directoryStructure.png)
+![File Structure](file_structure.png)
 
 * data
   * frequency.xlsx
