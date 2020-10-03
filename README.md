@@ -3,7 +3,7 @@
 Built using R 3.6.3
 All required packages that need to be installed can be found in global.R
 
-The project folder should look like this:
+The project folder should look like this, with the four main R files at the root:
 
 ![File Structure](file_structure.png)
 
