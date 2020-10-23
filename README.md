@@ -16,6 +16,6 @@ The project folder should look like this, with the four main R files at the root
   * colorblind_palettes.png
   * r_colors.pdf
 
-Because this Shiny app uses so many packages, publishing a web app of this size on shinyapps.io requires paying a monthly fee, and I'd rather not do that :)
+Because this Shiny app uses so many packages, publishing a web app of this size on shinyapps.io requires paying a monthly fee, and I'd rather not do that :smile:
 
 For any questions about this app, please reach out to me on [LinkedIn](https://www.linkedin.com/in/andrew-douglass/)
